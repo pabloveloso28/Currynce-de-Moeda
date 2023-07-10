@@ -3,6 +3,7 @@
 <br>
 <img src="https://github.com/pabloveloso28/Currynce-de-Moeda/blob/main/assets/Convertotr%20de%20moeda.png?raw=true">
 <h2>Responsivo:</h2>
+<img src="https://github.com/pabloveloso28/Currynce-de-Moeda/blob/main/assets/Responsivo.png?raw=true">
 <h2>Recursos e Funcionalidades</h2>
 <h4>Conversão em tempo real:</h4> O conversor atualiza automaticamente as taxas de câmbio e permite que os usuários insiram um valor em uma moeda e obtenham o valor equivalente em outra moeda.
 <h4>Interface intuitiva:</h4> A interface do usuário foi projetada para ser simples e intuitiva, tornando a conversão de moedas fácil e acessível para todos os usuários.
