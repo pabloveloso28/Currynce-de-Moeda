@@ -1,7 +1,7 @@
 # Currynce-de-Moeda 
 <p> Este é um projeto de um conversor de moedas desenvolvido em HTML, CSS e JavaScript. O conversor permite que os usuários convertam valores monetários entre diferentes moedas com base nas taxas de câmbio mais recentes.</p>
 <br>
-<img src="https://github.com/pabloveloso28/Currynce-de-Moeda/blob/main/assets/Convertor%20de%20moeda.png?raw=true">
+<img src="https://github.com/pabloveloso28/Currynce-de-Moeda/blob/main/assets/Convertor%20de%20moeda.png?raw=true" width=400px height=400px >
 <h2>Responsivo:</h2>
 <img src="https://github.com/pabloveloso28/Currynce-de-Moeda/blob/main/assets/Responsivo.png?raw=true">
 <h2>Recursos e Funcionalidades</h2>
